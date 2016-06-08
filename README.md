@@ -8,7 +8,7 @@ This is the course resource site for PR Publications, a course at the University
 
 **Instructor**
 
-Adam Croom<br>
+Scott Robison<br>
 **Location**: Old Science Hall, Room 224<br>
 **Phone**: (405) 325-2960<br>
 **E-mail**: a.croom (d0t) ou.edu<br>
